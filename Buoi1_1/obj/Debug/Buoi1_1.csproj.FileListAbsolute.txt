@@ -1,0 +1,8 @@
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\obj\Debug\Buoi1_1.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\obj\Debug\Buoi1_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\obj\Debug\Buoi1_1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\bin\Debug\Buoi1_1.exe.config
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\bin\Debug\Buoi1_1.exe
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\bin\Debug\Buoi1_1.pdb
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\obj\Debug\Buoi1_1.exe
+C:\Users\asus\Desktop\VuTheDuyet_2121110126\Buoi1_1\obj\Debug\Buoi1_1.pdb
