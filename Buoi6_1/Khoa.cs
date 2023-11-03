@@ -8,9 +8,9 @@ namespace Buoi6_1
 {
     internal class Khoa
     {
-        public int MaKhoa {  get; set; }
-        public string TenKhoa {  get; set; }
-        public string GhiChu {  get; set; }
+        public int MaKhoa { get; set; }
+        public string TenKhoa { get; set; }
+        public string GhiChu { get; set; }
 
         public Khoa() { }
         public Khoa(int makhoa, string tenkhoa, string ghichu)

@@ -112,6 +112,5 @@ namespace Buoi6_1
             cmd.Parameters.AddWithValue("@MASV", masv);
             cmd.ExecuteNonQuery();
         }
-
     }
 }

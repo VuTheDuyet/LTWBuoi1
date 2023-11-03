@@ -1,4 +1,4 @@
-﻿namespace Buoi5_3
+﻿namespace Buoi7_1
 {
     partial class Form1
     {

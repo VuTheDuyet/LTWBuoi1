@@ -14,7 +14,8 @@ namespace Buoi6_1
         public double DiemTB { get; set; }
 
         public SinhVien() { }
-        public SinhVien(string masv, string hoten, int makhoa, Double diemtb) { 
+        public SinhVien(string masv, string hoten, int makhoa, Double diemtb)
+        {
             this.MaSV = masv;
             this.HoTen = hoten;
             this.MaKhoa = makhoa;

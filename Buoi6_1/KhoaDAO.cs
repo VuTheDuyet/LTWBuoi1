@@ -10,6 +10,7 @@ namespace Buoi6_1
 {
     internal class KhoaDAO
     {
+
         SqlConnection conn = null;
         SqlCommand cmd = null;
         SqlDataAdapter apt = null;

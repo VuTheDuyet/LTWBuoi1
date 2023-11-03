@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{523EDA7E-A78A-4CDD-B1CB-5B6BEAAF6F9E}</ProjectGuid>
+    <ProjectGuid>{909CD3EC-9174-4BA1-B06A-50E22C26555D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Buoi5_2</RootNamespace>
     <AssemblyName>Buoi5_2</AssemblyName>
@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
