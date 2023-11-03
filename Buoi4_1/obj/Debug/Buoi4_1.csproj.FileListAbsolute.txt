@@ -1,0 +1,11 @@
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.csproj.AssemblyReference.cache
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.csproj.SuggestedBindingRedirects.cache
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.Form1.resources
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.Properties.Resources.resources
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.csproj.GenerateResource.cache
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.csproj.CoreCompileInputs.cache
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\bin\Debug\Buoi4_1.exe.config
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\bin\Debug\Buoi4_1.exe
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\bin\Debug\Buoi4_1.pdb
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.exe
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi4_1\obj\Debug\Buoi4_1.pdb

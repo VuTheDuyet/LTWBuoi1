@@ -1,0 +1,8 @@
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\bin\Debug\Buoi1_3.exe.config
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\bin\Debug\Buoi1_3.exe
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\bin\Debug\Buoi1_3.pdb
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\obj\Debug\Buoi1_3.csproj.AssemblyReference.cache
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\obj\Debug\Buoi1_3.csproj.SuggestedBindingRedirects.cache
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\obj\Debug\Buoi1_3.csproj.CoreCompileInputs.cache
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\obj\Debug\Buoi1_3.exe
+D:\windownFamerword\VuTheDuyet_2121110126\Buoi1_3\obj\Debug\Buoi1_3.pdb

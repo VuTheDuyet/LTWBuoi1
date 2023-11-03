@@ -1,0 +1,10 @@
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\bin\Debug\Buoi5_2.exe.config
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\bin\Debug\Buoi5_2.exe
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\bin\Debug\Buoi5_2.pdb
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\obj\Debug\Buoi5_2.csproj.AssemblyReference.cache
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\obj\Debug\Buoi5_2.Form1.resources
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\obj\Debug\Buoi5_2.Properties.Resources.resources
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\obj\Debug\Buoi5_2.csproj.GenerateResource.cache
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\obj\Debug\Buoi5_2.csproj.CoreCompileInputs.cache
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\obj\Debug\Buoi5_2.exe
+D:\C#\project\baitap\NguyenQuocTrong_2121110138\Buoi5_2\obj\Debug\Buoi5_2.pdb
